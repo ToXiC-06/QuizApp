@@ -12,7 +12,7 @@ Admin details: <br>
 
 Routes==========================================> <br><hr>
 
-for backend:-<br><hr>
+<h4>for backend:-</h4>
 
 /questions    -   GET  <br>
 /add-question  -  POST <br>
@@ -26,16 +26,19 @@ for backend:-<br><hr>
 /login - POST <br>
 /login-admin - POST <br>
 
-for Frontend ==========================================<br><hr>
+<h4>for Frontend ==========================================</h4>
 /  - Home <br>
-authentication -----<br><hr>
+
+<h5>authentication -----</h5>
 /auth/admin-login <br>
 /auth/register <br>
 /auth/login <br>
-application------<br><hr>
+
+
+<h5>application------</h5>
 /quiz  <br>
 
-admin panel ---------------------<br><hr>
+<h5>admin panel ---------------------</h5>
 /admin-panel <br>
 /admin-panel/questions <br>
 /admin-panel/questions/edit <br>
