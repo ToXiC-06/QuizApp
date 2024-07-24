@@ -1,3 +1,5 @@
+<h1>Quiz Web Application</h1>
+
 Application has both backend and frontend in different folders. <br>
 Open Backend install dependencies and then run server by node app.js  <br>
 After running the server open frontend and install dependencies.<br>
