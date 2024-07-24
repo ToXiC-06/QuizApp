@@ -1,5 +1,5 @@
-Application has both backend and frontend in different folders.
-Open Backend install dependencies and then run server by node app.js
+Application has both backend and frontend in different folders. <br>
+Open Backend install dependencies and then run server by node app.js  <br>
 After running the server open frontend and install dependencies.
 Run frontend in another server
 
