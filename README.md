@@ -3,6 +3,10 @@ Open Backend install dependencies and then run server by node app.js  <br>
 After running the server open frontend and install dependencies.<br>
 Run frontend in another server<br>
 
+Admin details: <br>
+<h3>Admin email: admin@gmail.com</h2>
+<h3>Password: admin@11</h3>
+
 
 Routes==========================================> <br><hr>
 
