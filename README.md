@@ -1,37 +1,37 @@
 Application has both backend and frontend in different folders. <br>
 Open Backend install dependencies and then run server by node app.js  <br>
-After running the server open frontend and install dependencies.
-Run frontend in another server
+After running the server open frontend and install dependencies.<br>
+Run frontend in another server<br>
 
 
-Routes==========================================>
+Routes==========================================> <br><hr>
 
-for backend:-
+for backend:-<br><hr>
 
-/questions    -   GET
-/add-question  -  POST
-/edit-question - PUT
-/delete-question - DELETE
-/users - GET
-/user/update - PUT
-/user/:email - GET
-/add-users - POST
-/admin - GET
-/login - POST
-/login-admin - POST
+/questions    -   GET  <br>
+/add-question  -  POST <br>
+/edit-question - PUT <br>
+/delete-question - DELETE <br>
+/users - GET <br>
+/user/update - PUT <br>
+/user/:email - GET <br>
+/add-users - POST <br>
+/admin - GET <br>
+/login - POST <br>
+/login-admin - POST <br>
 
-for Frontend ==========================================
-/  - Home
-authentication -----
-/auth/admin-login
-/auth/register
-/auth/login
-application------
-/quiz 
+for Frontend ==========================================<br><hr>
+/  - Home <br>
+authentication -----<br><hr>
+/auth/admin-login <br>
+/auth/register <br>
+/auth/login <br>
+application------<br><hr>
+/quiz  <br>
 
-admin panel ---------------------
-/admin-panel
-/admin-panel/questions
-/admin-panel/questions/edit
-/admin-panel/questions/add
-/admin-panel/stats
+admin panel ---------------------<br><hr>
+/admin-panel <br>
+/admin-panel/questions <br>
+/admin-panel/questions/edit <br>
+/admin-panel/questions/add <br>
+/admin-panel/stats <br>
