@@ -1,0 +1,43 @@
+.btn {
+  display: block;
+  font-family: inherit;
+  color: inherit;
+  border: 1px solid rgb(133, 133, 133);
+  font-size: 1rem;
+  padding: 1.2rem 2.4rem;
+  cursor: pointer;
+  border-radius: 100px;
+  transition: 0.3s;
+  margin: 2px 0px;
+  width: 100%;
+  text-align: left;
+}
+
+.btnOption {
+  width: 100%;
+  text-align: left;
+}
+
+.btn-option.correct {
+  background-color: var(--color-theme);
+  border: 2px solid var(--color-theme);
+  color: var(--color-light);
+}
+
+.btn-option.wrong {
+  background-color: var(--color-accent);
+  border: 2px solid var(--color-accent);
+  color: var(--color-darkest);
+}
+
+.answer {
+  transform: translateX(2rem);
+}
+
+.correct {
+  background-color: greenyellow;
+}
+
+.wrong {
+  background-color: rgb(234, 192, 192);
+}
